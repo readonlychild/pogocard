@@ -5,6 +5,10 @@ Pass in all your stat values to generate a card (png)
 Example:
 https://ifws1y93uf.execute-api.us-east-1.amazonaws.com/dev/profile-card?tn=readonlychild&team=valor&slogan=United%20States%20-%20Illinois&xp=15095000&jogger=1499.3&kanto=150&collector=24397&scientist=1767&breeder=542&backpacker=17280&battlegirl=3496&pikachufan=331&johto=97&berrymaster=8762&gymleader=12330&hoenn=115&ranger=1236&fisherman=94&acetrainer=173&youngster=158&battlelegend=198&pilot=343176&unown=6&champion=90&gentleman=68&idol=0&schoolkid=8025&blackbelt=1011&birdkeeper=5490&punkgirl=4463&ruinmaniac=1346&hiker=1811&bugcatcher=3325&hexmaniac=620&depotagent=566&kindler=1047&swimmer=4568&gardener=2787&rocker=1093&psychic=1495&skier=641&dragontamer=207&delinquent=1145&fairytalegirl=571&gymbadges=200&goldgyms=14&threekplus=19&threekplus4=7&hundosunique=91&shiniesunique=40&luckiesunique=4
 
+produces
+
+![profile-card](https://raw.githubusercontent.com/readonlychild/pogocard/master/assets/profile-card.png)
+
 ## Tech
 
 ### Serverless AWS lambda
